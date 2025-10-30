@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Brand,Rating,Review_Text,Sentiment,Helpful_Votes
+1,C920S Webcam,Electronics,Logitech,4.0,Worth the money.,Positive,436
+2,WH-1000XM5 Headphones,Electronics,Sony,1.1,Disappointed with the performance.,Negative,345
+3,Zeb-Thunder Headset,Electronics,Zebronics,1.1,Not satisfied at all.,Negative,228
+4,Inspiron 15 Laptop,Electronics,Dell,2.9,Very comfortable and durable.,Positive,278
+5,Inspiron 15 Laptop,Electronics,Dell,3.1,Disappointed with the performance.,Negative,292
+6,Zeb-Axon Tower Speaker,Electronics,Zebronics,2.1,Not worth the price.,Negative,52
+7,MX Master 3 Mouse,Electronics,Logitech,4.2,Fast delivery and nice packaging.,Positive,24
+8,U2720Q Monitor,Electronics,Dell,3.3,Battery drains quickly.,Negative,224
+9,C920S Webcam,Electronics,Logitech,2.8,Packaging was damaged.,Negative,495
+10,Zeb-Thunder Headset,Electronics,Zebronics,3.9,Very comfortable and durable.,Positive,286
+11,DeskJet 2331 Printer,Electronics,HP,1.5,Not worth the price.,Negative,351
+12,U2720Q Monitor,Electronics,Dell,1.9,Poor quality product.,Negative,185
+13,Galaxy Buds 2 Pro,Electronics,Samsung,3.5,Excellent performance and design.,Positive,92
+14,Galaxy S24 Ultra Smartphone,Electronics,Samsung,4.1,Worth the money.,Positive,283
+15,Inspiron 15 Laptop,Electronics,Dell,4.1,Very comfortable and durable.,Positive,397
+16,DeskJet 2331 Printer,Electronics,HP,2.0,Not worth the price.,Negative,62
+17,C920S Webcam,Electronics,Logitech,1.9,Disappointed with the performance.,Negative,197
+18,iPhone 15 Pro,Electronics,Apple,3.0,Not worth the price.,Negative,76
+19,Galaxy S24 Ultra Smartphone,Electronics,Samsung,3.8,Great quality product!,Positive,281
+20,Zeb-Axon Tower Speaker,Electronics,Zebronics,2.5,Not satisfied at all.,Negative,83
+21,511 Slim Jeans,Fashion,Levi's,1.2,Packaging was damaged.,Negative,474
+22,Essentials T-shirt,Fashion,Adidas,2.2,Battery drains quickly.,Negative,137
+23,Graphic T-shirt,Fashion,Levi's,3.2,Stopped working in a few days.,Negative,292
+24,Air Max 270 Shoes,Fashion,Nike,2.8,Packaging was damaged.,Negative,198
+25,Active T-shirt,Fashion,Puma,2.6,Disappointed with the performance.,Negative,103
+26,Sports Hoodie,Fashion,Nike,4.9,Fast delivery and nice packaging.,Positive,77
+27,Active T-shirt,Fashion,Puma,1.1,Packaging was damaged.,Negative,98
+28,Slim Fit Shirt,Fashion,Zara,2.0,Not satisfied at all.,Negative,354
+29,Cotton T-Shirt,Fashion,H&M,3.3,Excellent performance and design.,Positive,150
+30,511 Slim Jeans,Fashion,Levi's,1.8,Stopped working in a few days.,Negative,250
+31,Active T-shirt,Fashion,Puma,5.0,Very comfortable and durable.,Positive,94
+32,Essentials T-shirt,Fashion,Adidas,3.3,Stopped working in a few days.,Negative,199
+33,Graphic T-shirt,Fashion,Levi's,2.1,Not worth the price.,Negative,378
+34,Slim Fit Shirt,Fashion,Zara,1.3,Disappointed with the performance.,Negative,459
+35,Essentials T-shirt,Fashion,Adidas,2.1,Packaging was damaged.,Negative,149
+36,511 Slim Jeans,Fashion,Levi's,2.8,Feels cheap and uncomfortable.,Negative,341
+37,Slim Fit Shirt,Fashion,Zara,3.4,Sound quality is bad.,Negative,117
+38,RS-X Sneakers,Fashion,Puma,4.4,Highly recommended!,Positive,295
+39,Essentials T-shirt,Fashion,Adidas,4.9,Fast delivery and nice packaging.,Positive,424
+40,Slim Fit Shirt,Fashion,Zara,1.1,Sound quality is bad.,Negative,369
+41,Absolute Blur Primer,Beauty,Lakme,2.7,Battery life is amazing.,Positive,350
+42,9to5 Primer+Matte Lipstick,Beauty,Lakme,3.8,Excellent performance and design.,Positive,218
+43,Paris Rouge Lipstick,Beauty,L'Oreal,2.4,Build quality could be better.,Negative,302
+44,Body Lotion,Beauty,Dove,2.8,Smooth and easy to use.,Positive,273
+45,Fit Me Foundation,Beauty,Maybelline,4.7,Battery life is amazing.,Positive,278
+46,Soft Moisturizer,Beauty,Nivea,5.0,Excellent performance and design.,Positive,86
+47,Revitalift Cream,Beauty,L'Oreal,1.8,Packaging was damaged.,Negative,466
+48,Revitalift Cream,Beauty,L'Oreal,2.9,Smooth and easy to use.,Positive,109
+49,Men Dark Spot Cream,Beauty,Nivea,3.1,Very comfortable and durable.,Positive,226
+50,Fit Me Foundation,Beauty,Maybelline,1.6,Stopped working in a few days.,Negative,205
+51,Revitalift Cream,Beauty,L'Oreal,2.5,Stopped working in a few days.,Negative,297
+52,Absolute Blur Primer,Beauty,Lakme,4.5,Great quality product!,Positive,179
+53,Paris Rouge Lipstick,Beauty,L'Oreal,3.5,Not satisfied at all.,Negative,241
+54,Soft Moisturizer,Beauty,Nivea,1.2,Build quality could be better.,Negative,152
+55,Soft Moisturizer,Beauty,Nivea,2.2,Feels cheap and uncomfortable.,Negative,60
+56,Paris Rouge Lipstick,Beauty,L'Oreal,1.3,Stopped working in a few days.,Negative,495
+57,9to5 Primer+Matte Lipstick,Beauty,Lakme,4.8,Worth the money.,Positive,338
+58,Men Dark Spot Cream,Beauty,Nivea,4.7,Fast delivery and nice packaging.,Positive,450
+59,Fit Me Foundation,Beauty,Maybelline,2.7,Disappointed with the performance.,Negative,153
+60,Revitalift Cream,Beauty,L'Oreal,4.7,Very comfortable and durable.,Positive,304
+61,Evopower Shin Guards,Sports,Puma,3.9,Very comfortable and durable.,Positive,70
+62,Future Z 4.1 Football,Sports,Puma,2.9,Not worth the price.,Negative,128
+63,Artengo Tennis Racquet,Sports,Decathlon,1.3,Build quality could be better.,Negative,233
+64,Muscle Power 3 Badminton,Sports,Yonex,3.4,Good value for the price.,Positive,102
+65,Evopower Shin Guards,Sports,Puma,3.1,Battery life is amazing.,Positive,308
+66,Kiprun Running Shoes,Sports,Decathlon,2.0,Not satisfied at all.,Negative,259
+67,X Speedflow Football Boots,Sports,Adidas,4.4,Fast delivery and nice packaging.,Positive,161
+68,Artengo Tennis Racquet,Sports,Decathlon,4.3,Smooth and easy to use.,Positive,273
+69,Astrox 99 Pro Racquet,Sports,Yonex,4.2,Excellent performance and design.,Positive,7
+70,Pro Training Shoes,Sports,Nike,4.9,Fast delivery and nice packaging.,Positive,247
+71,Predator Shin Guards,Sports,Adidas,3.0,Good value for the price.,Positive,485
+72,Pro Training Shoes,Sports,Nike,3.6,Excellent performance and design.,Positive,334
+73,Pro Training Shoes,Sports,Nike,3.1,Fast delivery and nice packaging.,Positive,375
+74,Mercurial Football,Sports,Nike,2.8,Very comfortable and durable.,Positive,46
+75,Pro Training Shoes,Sports,Nike,2.2,Stopped working in a few days.,Negative,133
+76,Future Z 4.1 Football,Sports,Puma,3.8,Worth the money.,Positive,169
+77,Astrox 99 Pro Racquet,Sports,Yonex,2.8,Battery drains quickly.,Negative,335
+78,Pro Training Shoes,Sports,Nike,3.3,Great quality product!,Positive,365
+79,Kiprun Running Shoes,Sports,Decathlon,3.0,Battery drains quickly.,Negative,333
+80,Predator Shin Guards,Sports,Adidas,3.1,Excellent performance and design.,Positive,375
+81,Prestige Max Cream,Home & Kitchen,Prestige,2.0,Not worth the price.,Negative,143
+82,Bajaj Max Cream,Home & Kitchen,Bajaj,3.0,Battery drains quickly.,Negative,273
+83,Philips Pro Cream,Home & Kitchen,Philips,3.4,Not satisfied at all.,Negative,1
+84,Morphy Richards Max Headphones,Home & Kitchen,Morphy Richards,3.1,Fast delivery and nice packaging.,Positive,342
+85,Philips Ultra Lamp,Home & Kitchen,Philips,1.8,Not satisfied at all.,Negative,295
+86,Prestige Plus Lamp,Home & Kitchen,Prestige,4.4,Worth the money.,Positive,158
+87,Philips Pro Book,Home & Kitchen,Philips,2.2,Poor quality product.,Negative,179
+88,Morphy Richards Max Mouse,Home & Kitchen,Morphy Richards,4.9,Good value for the price.,Positive,58
+89,Usha Pro Lamp,Home & Kitchen,Usha,2.8,Not satisfied at all.,Negative,132
+90,Prestige Max Bottle,Home & Kitchen,Prestige,4.4,Smooth and easy to use.,Positive,256
+91,Prestige Smart Cream,Home & Kitchen,Prestige,4.5,Fast delivery and nice packaging.,Positive,401
+92,Prestige Pro T-Shirt,Home & Kitchen,Prestige,4.6,Great quality product!,Positive,19
+93,Bajaj Essential Bottle,Home & Kitchen,Bajaj,3.0,Great quality product!,Positive,388
+94,Prestige Pro Shoes,Home & Kitchen,Prestige,3.3,Stopped working in a few days.,Negative,500
+95,Prestige Smart Lamp,Home & Kitchen,Prestige,4.4,Highly recommended!,Positive,201
+96,Morphy Richards Classic Bottle,Home & Kitchen,Morphy Richards,3.8,Very comfortable and durable.,Positive,356
+97,Prestige Essential Lamp,Home & Kitchen,Prestige,3.2,Poor quality product.,Negative,208
+98,Bajaj Basic Toy,Home & Kitchen,Bajaj,2.5,Battery life is amazing.,Positive,65
+99,Usha Smart T-Shirt,Home & Kitchen,Usha,2.1,Poor quality product.,Negative,197
+100,Morphy Richards Ultra Cream,Home & Kitchen,Morphy Richards,1.5,Not worth the price.,Negative,368
+101,Magicool Inverter AC,Appliances,Whirlpool,4.4,Good value for the price.,Positive,374
+102,SMS24AW00I Dishwasher,Appliances,Bosch,4.1,Smooth and easy to use.,Positive,453
+103,360 Bloomwash Pro Washing Machine,Appliances,Whirlpool,3.0,Disappointed with the performance.,Negative,478
+104,DualCool Inverter AC,Appliances,LG,3.6,Great quality product!,Positive,205
+105,Magicool Inverter AC,Appliances,Whirlpool,1.7,Packaging was damaged.,Negative,96
+106,Inverter Frost-Free Refrigerator,Appliances,Haier,2.1,Not satisfied at all.,Negative,311
+107,Magicool Inverter AC,Appliances,Whirlpool,1.3,Sound quality is bad.,Negative,496
+108,WindFree 5-in-1 Convertible AC,Appliances,Samsung,2.5,Build quality could be better.,Negative,158
+109,Serie 4 Washing Machine,Appliances,Bosch,1.9,Stopped working in a few days.,Negative,304
+110,SMS24AW00I Dishwasher,Appliances,Bosch,4.0,Highly recommended!,Positive,50
+111,RT42M5538S8 Refrigerator,Appliances,Samsung,3.4,Battery drains quickly.,Negative,205
+112,Puricare Water Purifier,Appliances,LG,2.6,Build quality could be better.,Negative,5
+113,HWM60-1266NZP Washer,Appliances,Haier,4.1,Great quality product!,Positive,55
+114,Magicool Inverter AC,Appliances,Whirlpool,3.9,Very comfortable and durable.,Positive,285
+115,Puricare Water Purifier,Appliances,LG,3.1,Good value for the price.,Positive,96
+116,Magicool Inverter AC,Appliances,Whirlpool,3.1,Feels cheap and uncomfortable.,Negative,342
+117,SMS24AW00I Dishwasher,Appliances,Bosch,2.8,Fast delivery and nice packaging.,Positive,313
+118,DualCool Inverter AC,Appliances,LG,2.5,Sound quality is bad.,Negative,174
+119,WindFree 5-in-1 Convertible AC,Appliances,Samsung,1.3,Not worth the price.,Negative,191
+120,Inverter Frost-Free Refrigerator,Appliances,Haier,2.6,Smooth and easy to use.,Positive,250
+121,Dreamhouse Doll Set,Toys,Barbie,3.1,Battery drains quickly.,Negative,457
+122,You Can Be Anything Doll,Toys,Barbie,3.8,Sound quality is crystal clear.,Positive,221
+123,You Can Be Anything Doll,Toys,Barbie,4.0,Highly recommended!,Positive,63
+124,Classic Bricks Set,Toys,Lego,2.9,Not satisfied at all.,Negative,405
+125,Classic Bricks Set,Toys,Lego,1.3,Feels cheap and uncomfortable.,Negative,26
+126,Dreamhouse Doll Set,Toys,Barbie,2.0,Battery drains quickly.,Negative,127
+127,Track Builder System,Toys,Hot Wheels,3.5,Sound quality is crystal clear.,Positive,265
+128,You Can Be Anything Doll,Toys,Barbie,4.9,Sound quality is crystal clear.,Positive,218
+129,City Mega Garage,Toys,Hot Wheels,2.9,Sound quality is crystal clear.,Positive,287
+130,Monopoly Board Game,Toys,Funskool,1.4,Packaging was damaged.,Negative,337
+131,Track Builder System,Toys,Hot Wheels,3.1,Battery life is amazing.,Positive,493
+132,City Police Station,Toys,Lego,4.1,Fast delivery and nice packaging.,Positive,137
+133,Track Builder System,Toys,Hot Wheels,3.1,Worth the money.,Positive,328
+134,Track Builder System,Toys,Hot Wheels,3.5,Very comfortable and durable.,Positive,340
+135,You Can Be Anything Doll,Toys,Barbie,1.4,Battery drains quickly.,Negative,474
+136,City Mega Garage,Toys,Hot Wheels,3.4,Not satisfied at all.,Negative,376
+137,City Police Station,Toys,Lego,4.8,Smooth and easy to use.,Positive,14
+138,Track Builder System,Toys,Hot Wheels,2.7,Sound quality is crystal clear.,Positive,449
+139,City Mega Garage,Toys,Hot Wheels,4.2,Highly recommended!,Positive,453
+140,Mattel Classic Shoes,Toys,Mattel,1.3,Stopped working in a few days.,Negative,457
+141,The Power of Habit by Charles Duhigg,Books,HarperCollins,4.4,Worth the money.,Positive,459
+142,Harry Potter and the Philosopher’s Stone by J.K. Rowling,Books,Bloomsbury,3.9,Battery life is amazing.,Positive,434
+143,Harry Potter and the Philosopher’s Stone by J.K. Rowling,Books,Bloomsbury,2.4,Build quality could be better.,Negative,488
+144,Ikigai by Hector Garcia,Books,Penguin,3.4,Build quality could be better.,Negative,298
+145,The Power of Habit by Charles Duhigg,Books,HarperCollins,4.6,Good value for the price.,Positive,58
+146,Atomic Habits by James Clear,Books,Penguin,2.5,Stopped working in a few days.,Negative,309
+147,Ikigai by Hector Garcia,Books,Penguin,1.1,Not worth the price.,Negative,171
+148,The Power of Habit by Charles Duhigg,Books,HarperCollins,2.2,Not worth the price.,Negative,453
+149,The Power of Habit by Charles Duhigg,Books,HarperCollins,2.6,Stopped working in a few days.,Negative,52
+150,Goosebumps by R.L. Stine,Books,Scholastic,2.4,Poor quality product.,Negative,67
+151,Harry Potter and the Philosopher’s Stone by J.K. Rowling,Books,Bloomsbury,2.0,Stopped working in a few days.,Negative,296
+152,The Power of Habit by Charles Duhigg,Books,HarperCollins,2.6,Good value for the price.,Positive,162
+153,The Power of Habit by Charles Duhigg,Books,HarperCollins,3.5,Sound quality is crystal clear.,Positive,465
+154,Ikigai by Hector Garcia,Books,Penguin,1.3,Sound quality is bad.,Negative,254
+155,Atomic Habits by James Clear,Books,Penguin,2.7,Highly recommended!,Positive,79
+156,Goosebumps by R.L. Stine,Books,Scholastic,4.9,Excellent performance and design.,Positive,53
+157,Atomic Habits by James Clear,Books,Penguin,2.9,Great quality product!,Positive,368
+158,The Power of Habit by Charles Duhigg,Books,HarperCollins,2.9,Packaging was damaged.,Negative,50
+159,Goosebumps by R.L. Stine,Books,Scholastic,2.4,Disappointed with the performance.,Negative,427
+160,Goosebumps by R.L. Stine,Books,Scholastic,1.1,Not worth the price.,Negative,337
+161,Arista Study Table,Furniture,Durian,3.0,Not satisfied at all.,Negative,217
+162,NxtGen Study Desk,Furniture,Godrej,3.0,Battery life is amazing.,Positive,170
+163,Interio Wardrobe,Furniture,Godrej,1.3,Not satisfied at all.,Negative,121
+164,Interio Wardrobe,Furniture,Godrej,1.8,Stopped working in a few days.,Negative,319
+165,Interio Wardrobe,Furniture,Godrej,1.2,Feels cheap and uncomfortable.,Negative,248
+166,Interio Wardrobe,Furniture,Godrej,2.7,Smooth and easy to use.,Positive,396
+167,NxtGen Study Desk,Furniture,Godrej,2.6,Very comfortable and durable.,Positive,189
+168,Morris Coffee Table,Furniture,Urban Ladder,1.0,Not satisfied at all.,Negative,400
+169,POANG Armchair,Furniture,IKEA,2.8,Battery drains quickly.,Negative,148
+170,Boston Leather Sofa,Furniture,Durian,1.8,Packaging was damaged.,Negative,440
+171,MALM Bed Frame,Furniture,IKEA,3.5,Build quality could be better.,Negative,189
+172,POANG Armchair,Furniture,IKEA,2.0,Poor quality product.,Negative,208
+173,POANG Armchair,Furniture,IKEA,2.1,Disappointed with the performance.,Negative,160
+174,Boston Leather Sofa,Furniture,Durian,4.8,Sound quality is crystal clear.,Positive,8
+175,Vesta Office Chair,Furniture,Urban Ladder,1.3,Not worth the price.,Negative,70
+176,NxtGen Study Desk,Furniture,Godrej,1.4,Battery drains quickly.,Negative,99
+177,Boston Leather Sofa,Furniture,Durian,2.8,Disappointed with the performance.,Negative,169
+178,MALM Bed Frame,Furniture,IKEA,4.3,Fast delivery and nice packaging.,Positive,82
+179,Arista Study Table,Furniture,Durian,2.5,Disappointed with the performance.,Negative,299
+180,Morris Coffee Table,Furniture,Urban Ladder,3.3,Packaging was damaged.,Negative,370
+181,Paneer 200g,Grocery,Amul,1.4,Stopped working in a few days.,Negative,250
+182,Dant Kanti Toothpaste,Grocery,Patanjali,4.0,Excellent performance and design.,Positive,332
+183,Butter 500g,Grocery,Amul,3.0,Not worth the price.,Negative,125
+184,Besan 500g,Grocery,Fortune,4.5,Great quality product!,Positive,204
+185,Butter 500g,Grocery,Amul,2.3,Battery drains quickly.,Negative,381
+186,Butter 500g,Grocery,Amul,5.0,Very comfortable and durable.,Positive,167
+187,Butter 500g,Grocery,Amul,3.3,Packaging was damaged.,Negative,380
+188,Butter 500g,Grocery,Amul,2.8,Smooth and easy to use.,Positive,473
+189,Tea Gold 500g,Grocery,Tata,2.0,Battery drains quickly.,Negative,441
+190,Salt Lite 1kg,Grocery,Tata,1.0,Battery drains quickly.,Negative,449
+191,Salt Lite 1kg,Grocery,Tata,2.6,Packaging was damaged.,Negative,298
+192,Maggi 70g,Grocery,Nestle,3.4,Fast delivery and nice packaging.,Positive,16
+193,Butter 500g,Grocery,Amul,4.5,Battery life is amazing.,Positive,459
+194,Dant Kanti Toothpaste,Grocery,Patanjali,1.9,Feels cheap and uncomfortable.,Negative,491
+195,Tea Gold 500g,Grocery,Tata,2.5,Feels cheap and uncomfortable.,Negative,301
+196,Cow Ghee 1L,Grocery,Patanjali,2.1,Stopped working in a few days.,Negative,226
+197,Dant Kanti Toothpaste,Grocery,Patanjali,3.7,Great quality product!,Positive,227
+198,Butter 500g,Grocery,Amul,2.3,Disappointed with the performance.,Negative,486
+199,Besan 500g,Grocery,Fortune,1.4,Build quality could be better.,Negative,407
+200,Cow Ghee 1L,Grocery,Patanjali,2.3,Sound quality is bad.,Negative,199
